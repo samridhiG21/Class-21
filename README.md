@@ -1,2 +1,2 @@
-# Class-21
-Learned about functions with arguments
+# collisionAlgorithm
+Algorithm to detect collision between two objects
